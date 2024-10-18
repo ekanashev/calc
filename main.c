@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 // Программа-калькулятор
+// Автор: Неизвестен
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Здравствуй, мир!\n");
     return 0;
 }
 
